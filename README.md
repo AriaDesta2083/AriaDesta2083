@@ -15,21 +15,20 @@
 
 Project ON :
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariadesta2083&layout=compact" />
+
 
 <a href="https://github.com/AriaDesta2083/jaon-mart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=jaon-mart" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=jaon-mart" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariadesta2083&layout=compact" />
 </a>
 
 <a href="https://github.com/AriaDesta2083/b-farm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=b-farm" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=b-farm" />
 </a>
 
 <a href="https://github.com/AriaDesta2083/b-farm-public">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=b-farm-public" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=b-farm-public" />
 </a>
-
-
 
 #### Contact me
   <a href="https://www.instagram.com/aria_desta/">
