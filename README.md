@@ -16,6 +16,7 @@
 Project ON :
 
 
+<div>
 
 <a href="https://github.com/AriaDesta2083/jaon-mart">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=jaon-mart" />
@@ -29,6 +30,8 @@ Project ON :
 <a href="https://github.com/AriaDesta2083/b-farm-public">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=b-farm-public" />
 </a>
+    
+</div>
 
 #### Contact me
   <a href="https://www.instagram.com/aria_desta/">
