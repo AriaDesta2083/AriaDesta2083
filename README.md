@@ -14,24 +14,15 @@
 - 📫 You can reach me at aria.desta18@gmail.com
 
 Project ON :
-<br>
+
 <a href="https://github.com/AriaDesta2083/jaon-mart">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=jaon-mart" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariadesta2083&layout=compact" />
 </a>
 
+####ContactMe :
 <br>
-
-<a href="https://github.com/AriaDesta2083/b-farm">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=b-farm" />
-</a>
-
-<a href="https://github.com/AriaDesta2083/b-farm-public">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=b-farm-public" />
-</a>
-<br>
-  <a href="https://www.instagram.com/aria_desta/" align="right">
-    <p>Contact me:</p>
+  <a href="https://www.instagram.com/aria_desta/">
     <img src="https://img.shields.io/badge/aria_desta-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 <br>
