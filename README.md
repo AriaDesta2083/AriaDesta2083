@@ -14,7 +14,7 @@
 - 📫 You can reach me at aria.desta18@gmail.com
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariadesta2083&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariadesta2083&layout=compact&theme=dracula" />
 
 ####ContactMe :
 <br>
