@@ -27,12 +27,12 @@ Project ON :
 </a>
 
 <a href="https://github.com/AriaDesta2083/b-farm-public">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=b-farm-public" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=b-farm-public" />
 </a>
-
+<br>
 #### Contact me
   <a href="https://www.instagram.com/aria_desta/">
-    <img align="left"src="https://img.shields.io/badge/aria_desta-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img align="right"src="https://img.shields.io/badge/aria_desta-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 <br>
 
