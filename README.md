@@ -17,7 +17,7 @@
 Project ON :
 
 <a href="https://github.com/AriaDesta2083/jaon-mart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=b-farm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=jaon-mart" />
 </a>
 
 <a href="https://github.com/AriaDesta2083/b-farm">
@@ -25,7 +25,7 @@ Project ON :
 </a>
 
 <a href="https://github.com/AriaDesta2083/b-farm-public">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=b-farm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=b-farm public" />
 </a>
 
 
