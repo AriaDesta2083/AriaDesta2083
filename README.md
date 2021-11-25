@@ -25,7 +25,7 @@ Project ON :
 </a>
 
 <a href="https://github.com/AriaDesta2083/b-farm-public">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=b-farm public" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=b-farm-public" />
 </a>
 
 
