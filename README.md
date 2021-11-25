@@ -13,11 +13,11 @@
 - 💕 I'm currently fall in love with Laravel and Flutter
 - 📫 You can reach me at aria.desta18@gmail.com
 
-
 Project ON :
 
 <a href="https://github.com/AriaDesta2083/jaon-mart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=jaon-mart" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ariadesta2083&repo=jaon-mart" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariadesta2083&layout=compact" />
 </a>
 
 <a href="https://github.com/AriaDesta2083/b-farm">
