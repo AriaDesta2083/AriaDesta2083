@@ -32,7 +32,7 @@ Project ON :
 
 #### Contact me
   <a href="https://www.instagram.com/aria_desta/">
-    <img src="https://img.shields.io/badge/aria_desta-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img align="left"src="https://img.shields.io/badge/aria_desta-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 <br>
 
