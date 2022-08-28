@@ -8,9 +8,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ariadesta2083&show_icons=true&theme=radical" width="400">
 
 - ⚡ Excited to create open-source projects
-- 🌱 I’m currently learning Laravel and Flutter
+- 🌱 I’m currently learning Laravel , Flutter , Pyhon
 - 😄 I'm natively speak bahasa Indonesian
-- 💕 I'm currently fall in love with Laravel and Flutter
+- 💕 I'm currently fall in love with Laravel , Flutter, Python
 - 📫 You can reach me at aria.desta18@gmail.com
 
 
