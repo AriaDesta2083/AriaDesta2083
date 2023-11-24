@@ -5,7 +5,7 @@
     I Stand With Palestine #SAVEPALESTINE
 </h4>
 
-<img align="right" height="300"  alt="GIF" src="https://i.giphy.com/VU5hsWdQ9RJnDzaLPI.gif" />
+<img align="right" width="400"  alt="GIF" src="https://i.giphy.com/VU5hsWdQ9RJnDzaLPI.gif" />
 <!--//<img align="right" height="400"  alt="GIF" src="https://i.pinimg.com/originals/7f/9b/92/7f9b92e6d10799bd7d3c47433fb3e020.gif" />-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariadesta2083&layout=compact&theme=radical" width="400"/>
