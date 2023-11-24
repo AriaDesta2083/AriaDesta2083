@@ -3,8 +3,11 @@
 </h1>
 
 I Stand With Palestine 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/Y7UtIYdiMxCpHgO20F" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
+![image](https://github.com/AriaDesta2083/AriaDesta2083/assets/72341703/fd7fc480-3e2d-4dc9-84cd-bcb19d68d0b8)
+
+<img align="right" height="400"  alt="GIF" src="![image](https://github.com/AriaDesta2083/AriaDesta2083/assets/72341703/888ca838-5b2e-46e9-9eef-47705cbfaa65)
+" />
 <img align="right" height="400"  alt="GIF" src="https://i.pinimg.com/originals/7f/9b/92/7f9b92e6d10799bd7d3c47433fb3e020.gif" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariadesta2083&layout=compact&theme=radical" width="400"/>
