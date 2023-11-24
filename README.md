@@ -1,8 +1,10 @@
 <h1 style="center">
     Hi there 👋 I'm Aria
 </h1>
+<h4 style="left">
+    I Stand With Palestine #SAVEPALESTINE
+</h4>
 
-I Stand With Palestine 
 <img align="right" height="400"  alt="GIF" src="https://i.giphy.com/VU5hsWdQ9RJnDzaLPI.gif" />
 <!--//<img align="right" height="400"  alt="GIF" src="https://i.pinimg.com/originals/7f/9b/92/7f9b92e6d10799bd7d3c47433fb3e020.gif" />-->
 
