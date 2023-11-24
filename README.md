@@ -20,4 +20,5 @@ I Stand With Palestine
     <img src="https://img.shields.io/badge/_ariadesta-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/VU5hsWdQ9RJnDzaLPI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/indonesia-palestine-palestina-VU5hsWdQ9RJnDzaLPI">via GIPHY</a></p>
+![image](https://github.com/AriaDesta2083/AriaDesta2083/assets/72341703/3f178ddb-4070-4fd5-9c80-81fd7d3a3819)
+<img align="right" height="400"  alt="GIF" src="https://github.com/AriaDesta2083/AriaDesta2083/assets/72341703/3f178ddb-4070-4fd5-9c80-81fd7d3a3819">
