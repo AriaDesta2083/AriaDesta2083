@@ -19,5 +19,4 @@ I Stand With Palestine
 <a href="https://www.instagram.com/aria_desta/">
     <img src="https://img.shields.io/badge/_ariadesta-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<img src="https://i.giphy.com/media/VU5hsWdQ9RJnDzaLPI/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/VU5hsWdQ9RJnDzaLPI.gif';" alt="">
 <img align="right" height="400"  alt="GIF" src="https://i.giphy.com/VU5hsWdQ9RJnDzaLPI.gif" />
