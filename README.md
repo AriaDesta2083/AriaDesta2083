@@ -20,5 +20,4 @@ I Stand With Palestine
     <img src="https://img.shields.io/badge/_ariadesta-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-![image](https://github.com/AriaDesta2083/AriaDesta2083/assets/72341703/3f178ddb-4070-4fd5-9c80-81fd7d3a3819)
 <img align="right" height="400"  alt="GIF" src="https://github.com/AriaDesta2083/AriaDesta2083/assets/72341703/3f178ddb-4070-4fd5-9c80-81fd7d3a3819">
